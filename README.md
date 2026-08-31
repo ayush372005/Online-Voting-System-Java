@@ -47,7 +47,7 @@ An online voting system developed using **JSP**, **Servlets**, and **MySQL**, de
 
 ## 📸 Screenshots
 
-(screenshots/Screenshot 2026-06-14 114103.png)
+(screenshots/voting.png)
 
 
 ---

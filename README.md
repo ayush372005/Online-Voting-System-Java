@@ -47,11 +47,7 @@ An online voting system developed using **JSP**, **Servlets**, and **MySQL**, de
 
 ## 📸 Screenshots
 
-### 🔐 Login Page
-![Login Page](screenshots/login.png)
-
-### 🗳️ Voting Panel
-![Security Check](screenshots/security_checks.png)
+(screenshots/Screenshot 2026-06-14 114103.png)
 
 
 ---

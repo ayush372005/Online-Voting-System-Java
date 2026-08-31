@@ -47,7 +47,7 @@ An online voting system developed using **JSP**, **Servlets**, and **MySQL**, de
 
 ## 📸 Screenshots
 
-(screenshots/voting.png)
+![eVoting System Screenshot](screenshots/voting.png)
 
 
 ---
@@ -55,7 +55,7 @@ An online voting system developed using **JSP**, **Servlets**, and **MySQL**, de
 ## 👤 Author
 
 **Ayush Sharma**  
-[GitHub Profile]https://github.com/ayush372005/
+[GitHub Profile](https://github.com/ayush372005/)
 
 ---
 
